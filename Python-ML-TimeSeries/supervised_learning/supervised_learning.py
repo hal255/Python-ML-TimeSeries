@@ -1,5 +1,10 @@
 
+"""
+    following example: https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/
+"""
+
 from pandas import DataFrame
+
 
 def main():
     df = DataFrame()
